@@ -17,5 +17,6 @@
 ##
 
 <div>
+  <a href="https://stackoverflow.com/users/26789282/lapine"><img src="https://stackoverflow.com/users/flair/26789282.png?theme=dark" width="208" height="58" alt="profile for Lapine at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lapine at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   <a href="https://www.instagram.com/lapineclaire" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>
 </div>
